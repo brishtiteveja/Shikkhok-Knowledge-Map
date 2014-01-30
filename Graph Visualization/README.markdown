@@ -1,15 +1,16 @@
-Graph-Visualization
-===================
+Shikkhok Knowledge Map
+======================
 
-This project is about 3D graph visualization with WebGL. The aim of this project is to evaluate the possibilities of graph drawing in WebGL.
+The aim of this project is to create a knowledge map for cool navigation.
 
-This project uses Three.js for drawing and currently supports a force directed layout.
+This project uses Three.js for drawing and currently supports a force directed layout. Thanks to the original code creator David Piegza and 
+for his project Graph Visualization on github(https://github.com/davidpiegza/Graph-Visualization).
 
 
 ### Run the example ###
 
 1. Clone or download the project
-2. Open the index_sample.html in a WebGL-compatible browser
+2. Open the Shikkhok Knowledge Map.html in a WebGL-compatible browser
 
 You may copy the index_sample.html to index.html and customize it.
 
@@ -18,9 +19,10 @@ Project Description
 
 The project consists of
 
-  - a graph structure
+  - a graph structure 
   - a graph layout implementation
-  - and a graph drawing implementation
+  - and a graph drawing implementation for Shikkhok.com courses.
+  
 
 ### Graph Structure ###
 
